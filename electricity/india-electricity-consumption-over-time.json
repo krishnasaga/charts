@@ -2,7 +2,7 @@
   "chartType":"timeseries",
   "series":[
     {
-      "type":"line",
+      "type":"area",
       "opacity":1,
       "name": "Revenue",
       "data":[
