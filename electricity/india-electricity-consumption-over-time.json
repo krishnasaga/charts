@@ -4,6 +4,7 @@
     {
       "type":"line",
       "opacity":1,
+      "name": "Revenue",
       "data":[
         {
           "x":0,
