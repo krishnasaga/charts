@@ -51,7 +51,7 @@
      {
       "type":"area",
       "opacity":0.5,
-      "name": "Revenue",
+      "name": "Earnings",
       "data":[
         {
           "x":0,
