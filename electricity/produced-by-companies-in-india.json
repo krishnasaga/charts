@@ -1,7 +1,7 @@
 {
   "chartType":"timeseries",
   "options": {
-     "xType": "category"
+     "xType": "ordinal"
   },
   "series":[
     {
