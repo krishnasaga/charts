@@ -7,23 +7,23 @@
       "name": "Unit Mega Watt Hour",
       "data":[
         {
-          "x": "Tata Motors",
+          "x": 1,
           "y":8
         },
         {
-          "x": "Adhani Green",
+          "x": 2,
           "y":5
         },
         {
-          "x": "ReNew Green",
+          "x": 3,
           "y":4
         },
         {
-          "x": "Relance Power",
+          "x": 4,
           "y":9
         },
         {
-          "x": "Jindal Steel",
+          "x" 5,
           "y":0
         }
       ]
