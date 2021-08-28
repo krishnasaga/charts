@@ -1,5 +1,6 @@
 {
   "chartType":"timeseries",
+  "xType": "category",
   "series":[
     {
       "type":"bar",
