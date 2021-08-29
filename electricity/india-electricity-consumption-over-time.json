@@ -1,11 +1,12 @@
 {
   "chartType":"timeseries",
   "options": {
-    "animation": true
+  
   },
   "series":[
     {
       "type":"area",
+      "animation": true
       "opacity": 1,
       "name": "Total Consumption",
       "color": "pink",
