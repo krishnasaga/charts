@@ -9,6 +9,7 @@
       "opacity":0.5,
       "name": "Renewable Installed capacity",
       "color": "green",
+      "animation": true,
       "data": [
         {
           "x": "Tata Power",
