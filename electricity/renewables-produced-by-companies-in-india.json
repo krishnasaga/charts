@@ -8,8 +8,8 @@
       "type":"bar",
       "opacity":0.5,
       "name": "Renewable Installed capacity",
-      "color": "green"
-      "data":[
+      "color": "green",
+      "data": [
         {
           "x": "Tata Power",
           "y": 2637
