@@ -6,7 +6,7 @@
   "series":[
     {
       "type":"area",
-      "animation": true
+      "animation": true,
       "opacity": 1,
       "name": "Total Consumption",
       "color": "pink",
