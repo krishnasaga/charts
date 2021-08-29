@@ -1,5 +1,8 @@
 {
   "chartType":"timeseries",
+  "options": {
+    "animation": true
+  },
   "series":[
     {
       "type":"area",
