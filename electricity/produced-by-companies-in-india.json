@@ -8,6 +8,7 @@
       "type":"bar",
       "opacity":0.5,
       "name": "Total Installed capacity",
+      "color": "blue",
       "data":[
         {
           "x": "Tata Power",
@@ -43,6 +44,7 @@
       "type":"bar",
       "opacity":0.5,
       "name": "Renewable Installed capacity",
+      "color": "green",
       "data":[
         {
           "x": "Tata Power",
