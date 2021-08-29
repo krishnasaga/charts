@@ -4,7 +4,7 @@
     {
       "type":"area",
       "opacity":0.5,
-      "name": "Revenue",
+      "name": "Fossil Fuels",
       "data":[
         {
           "x":0,
@@ -51,7 +51,7 @@
      {
       "type":"area",
       "opacity":0.5,
-      "name": "Earnings",
+      "name": "Renewables",
       "data":[
         {
           "x":0,
