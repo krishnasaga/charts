@@ -1,0 +1,43 @@
+{
+  "chartType":"timeseries",
+  "options": {
+     "xType": "ordinal"
+  },
+  "series":[
+     {
+      "type":"bar",
+      "opacity":0.5,
+      "name": "Renewable Installed capacity",
+      "data":[
+        {
+          "x": "Tata Power",
+          "y": 2637
+        },
+        {
+          "x": "Adhani Green",
+          "y": 2220
+        },
+        {
+          "x": "Adhani Power Limited",
+          "y": 10440
+        },
+        {
+          "x": "ReNew Power",
+          "y": 10000
+        },
+        {
+          "x": "NTPC",
+          "y": 920
+        },
+        {
+          "x": "Jindal Steel",
+          "y": 0
+        },
+        {
+          "x": "JSW Energy",
+          "y": 10
+        }
+      ]
+    }
+  ]
+}
