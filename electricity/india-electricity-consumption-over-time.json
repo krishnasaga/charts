@@ -5,6 +5,7 @@
       "type":"area",
       "opacity":0.5,
       "name": "Fossil Fuels",
+      "color": "grey",
       "data":[
         {
           "x":0,
@@ -52,6 +53,7 @@
       "type":"area",
       "opacity":0.5,
       "name": "Renewables",
+      "color": "green",
       "data":[
         {
           "x":0,
