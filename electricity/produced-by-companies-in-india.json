@@ -11,23 +11,31 @@
       "data":[
         {
           "x": "Tata Power",
-          "y":8
+          "y": 10957
         },
         {
           "x": "Adhani Green",
-          "y":5
+          "y": 2220
+        }
+        {
+          "x": "Adhani Power Limited",
+          "y": 10440
         },
         {
           "x": "ReNew Power",
-          "y":4
+          "y": 10000
         },
         {
-          "x": "Power",
-          "y":9
+          "x": "NTPC",
+          "y": 55126
         },
         {
           "x": "Jindal Steel",
           "y":0
+        },
+        {
+          "x": "JSW Energy",
+          "y": 9189
         }
       ]
     }
