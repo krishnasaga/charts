@@ -7,7 +7,7 @@
     {
       "type":"bar",
       "opacity":0.5,
-      "name": "Unit Mega Watt Hour",
+      "name": "Installed capacity",
       "data":[
         {
           "x": "Tata Power",
@@ -16,7 +16,7 @@
         {
           "x": "Adhani Green",
           "y": 2220
-        }
+        },
         {
           "x": "Adhani Power Limited",
           "y": 10440
@@ -31,7 +31,7 @@
         },
         {
           "x": "Jindal Steel",
-          "y":0
+          "y": 0
         },
         {
           "x": "JSW Energy",
