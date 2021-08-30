@@ -1,9 +1,8 @@
 {
   "chartType":"timeseries",
   "title": "Energy Generation Over time",
-  "units": "TWh",
   "options": {
-  
+    "units": "TWh"
   },
   "series":[
     {
