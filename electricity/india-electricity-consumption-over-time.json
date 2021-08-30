@@ -1,5 +1,6 @@
 {
   "chartType":"timeseries",
+  "units": "TWh",
   "options": {
   
   },
