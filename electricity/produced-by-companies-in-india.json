@@ -1,5 +1,5 @@
 {
-  "type":"timeseries",
+  "type":"TimeSeries",
   "options": {
      "xType": "ordinal"
   },
