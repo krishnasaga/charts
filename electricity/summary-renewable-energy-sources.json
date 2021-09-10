@@ -1,15 +1,23 @@
 {
     "type": "NumberStats",
     "series": [{
+      "color": "orange",
+      "name": "Solar",
       "unit": "GW",
       "data": 12
     },{
+      "color": "green",
+      "name": "Wind",
       "unit": "GW",
       "data": 13
     },{
+      "color": "navy",
+      "name": "Hydel",
       "unit": "GW",
       "data": 14
     },{
+      "color": "skyblue",
+      "name": "Small Hydel",
       "unit": "GW",
       "data": 15
     }]
